@@ -14,17 +14,17 @@
 - Lecture 3: Gradient descent
 - Đang update...
 ### Thành viên nhóm
-- Đào Xuân Hoàng Tuấn (leader)
-- Nguyễn Văn Nam
-- Phạm Chí Nguyên
-- Thân Trọng Tính
-- Hoàng Tiến Anh
-- Thân Hoàng Thiên Thiên
-- Dương Văn Tài
-- Ngô Trường Định
-- Đặng Hữu Trí
-- Trần Xuân Diện
-- Đỗ Minh Thư
-- Hồ Duy Trường
-- Phan Lâm Hùng
-- Trịnh Dương Hoan
+*Đào Xuân Hoàng Tuấn (Leader)*\
+*Nguyễn Văn Nam*\
+*Phạm Chí Nguyên*\
+*Thân Trọng Tính*\
+*Hoàng Tiến Anh*\
+*Thân Hoàng Thiên Thiên*\
+*Dương Văn Tài*\
+*Ngô Trường Định*\
+*Đặng Hữu Trí*\
+*Trần Xuân Diện*\
+*Đỗ Minh Thư*\
+*Hồ Duy Trường*\
+*Phan Lâm Hùng*\
+*Trịnh Dương Hoan*
