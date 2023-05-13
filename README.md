@@ -1,5 +1,7 @@
 # Machine learning lecture of AI Faster team
-### Tổng hợp những bài giảng của tôi về Machine learning trong nhóm AI Faster (do tôi làm leader) 
+![logogithub](https://github.com/AppSalmon/Machine-learning-lecture-of-AI-Faster-team/assets/120777599/3b353f8e-c827-4414-b50a-187a18028588)
+
+### Tổng hợp những bài giảng về Machine learning của nhóm AI Faster 
 **Tài liệu bao gồm:** 
 
  🌟 *Bài giảng lý thuyết*\
