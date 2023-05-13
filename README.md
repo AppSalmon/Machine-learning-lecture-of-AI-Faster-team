@@ -1,2 +1,6 @@
 # Machine learning lecture of AI Faster team
-Tổng hợp những bài giảng của tôi về Machine learning trong nhóm AI Faster (tôi là leader) bao gồm file lý thuyết dạng pdf, ngoài ra sẽ có các bài lab (bài tập) và file dữ liệu để luyện tập
+### Tổng hợp những bài giảng của tôi về Machine learning trong nhóm AI Faster (do tôi làm leader) 
+Tài liệu bao gồm: 
+ - Bài giảng lý thuyết dạng pdf
+ - Bài lab (bài tập) để thực hành
+ - Dữ liệu của bài lab để luyện tập
