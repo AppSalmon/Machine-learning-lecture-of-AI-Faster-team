@@ -13,7 +13,7 @@
 - Lecture 2: Linear Regression
 - Lecture 3: Gradient descent
 - Đang update...
-### Thành viên nhóm
+### Thành viên nhóm hoàn thành project
 *Đào Xuân Hoàng Tuấn (Leader)*\
 *Nguyễn Văn Nam*\
 *Phạm Chí Nguyên*\
