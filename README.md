@@ -8,11 +8,6 @@
  🌟 *Bài lab (bài tập) để thực hành*\
  🌟 *Dữ liệu của bài lab để luyện tập*
 
-### Nội dung các bài:
-- Lecture 1: Tìm hiểu về Machine learning và phân loại các thuật toán Machine learning
-- Lecture 2: Linear Regression
-- Lecture 3: Gradient descent
-- Đang update...
 ### Thành viên nhóm hoàn thành project
 *Đào Xuân Hoàng Tuấn (Leader)*\
 *Nguyễn Văn Nam*\
@@ -21,4 +16,4 @@
 *Hoàng Tiến Anh*\
 *Dương Văn Tài*\
 *Đặng Hữu Trí*\
-*Trần Xuân Diện*\
+*Trần Xuân Diện*
